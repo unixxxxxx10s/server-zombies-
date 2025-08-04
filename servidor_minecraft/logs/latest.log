@@ -525,3 +525,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Aug2025 05:04:32.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
 [04Aug2025 05:08:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Runner
 [04Aug2025 05:21:58.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [The Cutest Predator]
+[04Aug2025 05:25:50.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 died
+[04Aug2025 05:25:54.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[04Aug2025 05:25:54.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[04Aug2025 05:25:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Aug2025 05:25:59.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Aug2025 05:25:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Aug2025 05:25:59.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Aug2025 05:25:59.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Aug2025 05:26:00.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Aug2025 05:26:00.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[04Aug2025 05:26:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

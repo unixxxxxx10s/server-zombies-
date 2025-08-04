@@ -2513,3 +2513,84 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Aug2025 05:19:52.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Aug2025 05:21:08.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Aug2025 05:21:58.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [The Cutest Predator]
+[04Aug2025 05:22:37.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:22:42.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 05:22:42.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 05:22:47.160] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:22:59.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:23:01.204] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:23:02.758] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:23:22.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:23:22.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:23:22.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:23:22.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:23:23.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:23:23.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:23:23.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:23:23.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:25:38.504] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:39.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:25:40.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:25:41.857] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:42.505] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:42.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:25:43.105] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:43.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:25:43.606] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:44.305] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:44.905] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:45.407] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:45.955] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:46.456] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:46.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:25:46.956] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:47.506] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:48.016] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:48.556] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:49.055] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:49.456] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.507] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.556] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:49.556] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.616] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.656] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.756] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.805] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.855] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.907] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:49.956] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.005] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.058] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.106] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.156] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:50.156] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.205] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.305] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.406] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.456] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.505] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.555] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 05:25:50.656] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:50.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 died
+[04Aug2025 05:25:52.052] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Aug2025 05:25:54.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[04Aug2025 05:25:54.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[04Aug2025 05:25:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Aug2025 05:25:59.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Aug2025 05:25:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Aug2025 05:25:59.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Aug2025 05:25:59.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Aug2025 05:26:00.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Aug2025 05:26:00.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[04Aug2025 05:26:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Aug2025 05:26:00.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 05:26:00.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Aug2025 05:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Aug2025 05:26:00.474] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[04Aug2025 05:26:00.474] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
