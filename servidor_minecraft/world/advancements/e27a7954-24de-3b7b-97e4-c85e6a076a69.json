@@ -2404,5 +2404,257 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-04 05:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-04 05:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-04 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-04 05:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-04 05:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-04 05:15:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-04 05:16:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

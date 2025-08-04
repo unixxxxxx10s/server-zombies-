@@ -2502,3 +2502,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04Aug2025 05:09:06.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Aug2025 05:09:30.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Aug2025 05:09:33.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:12:42.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 05:12:42.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 05:14:16.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:14:18.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:17:42.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 05:17:42.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 05:19:33.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:19:41.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:19:52.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:21:08.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 05:21:58.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [The Cutest Predator]
